@@ -1,4 +1,4 @@
-import _ from 'lodach';
+import _ from 'lodash';
 import React from 'react';
 import ReactDom from 'react-dom';
 import YTSearch from 'youtube-api-search';
